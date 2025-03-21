@@ -183,7 +183,7 @@ Submissions must be anonymous following NeurIPS double-blind reviewing guideline
   <tr>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/vietanhnguyen-square.jpg" height="150" width="150"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/aniruddhasaha-square.jpeg" height="150" width="150"></td>
-    <td style="text-align:center"><img src="" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/icml2025/organizers/blank-square.png" height="150" width="150"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/heatherzheng-square.jpg" height="150" width="150"></td>
   </tr>
   <tr>
