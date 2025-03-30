@@ -140,7 +140,7 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 
 ### Important Dates (Tentative)
 
-* **Submission deadline**: May 14th, 2025, 11:59 PM Anywhere on Earth (AoE)
+* **Submission deadline**: May 20th, 2025, 11:59 PM Anywhere on Earth (AoE)
 * **Author notification**: June 9th, 2025
 * **Camera-ready deadline**: June 30th, 2025 11:59 PM Anywhere on Earth (AoE)
 * **Workshop date**: TBD (Full-day Event)
@@ -176,14 +176,14 @@ Submissions must be anonymous following NeurIPS double-blind reviewing guideline
     </tr>
   <tr>
     <td style="text-align:center"><a href="https://cispa.de/en/people/c01frbo">Franziska Boenisch</a> <br> <small> CISPA Helmholtz Center for Information Security </small> </td>
-    <td style="text-align:center"><a href="https://mail-research.com/">Khoa D Doan</a> <small> <br> VinUniversity, Vietnam </small> </td>
+    <td style="text-align:center"><a href="https://mail-research.com/">Khoa D Doan</a> <small> <br> CECS-VinUniversity & VinUni-Illinois Smart Health Center </small> </td>
     <td style="text-align:center"><a href="https://adam-dziedzic.com/">Adam Dziedzic</a> <small> <br> CISPA Helmholtz Center for Information Security </small> </td>
     <td style="text-align:center"><a href="https://aisecure.github.io/">Bo Li</a> <small> <br>University of Illinois at Urbana-Champaign </small> </td>
   </tr>
   <tr>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/vietanhnguyen-square.jpg" height="150" width="150"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/aniruddhasaha-square.jpeg" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/icml2025/organizers/blank-square.png" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/icml2025/organizers/zhenting-wang-square.jpg" height="150" width="150"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/heatherzheng-square.jpg" height="150" width="150"></td>
   </tr>
   <tr>
@@ -199,16 +199,17 @@ Submissions must be anonymous following NeurIPS double-blind reviewing guideline
 
 <table style="width:100%; align: left; border: none; spacing: none">
   <tr style="border: none; spacing: none"> 
-    <td style="text-align:center; border: none; spacing: none"><a href="https://cispa.de/en"><img src="assets/img/icml2025/organizers/affiliations/cispa.png" height="50"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.vinai.io/"><img src="assets/img/icml2025/organizers/affiliations/vinai.png" height="50"></a></td>  
+    <td style="text-align:center; border: none; spacing: none"><a href="https://cispa.de/en"><img src="assets/img/icml2025/organizers/affiliations/cispa.png" height="50"></a></td>    
     <td style="text-align:center; border: none; spacing: none"><a href="https://illinois.edu/"><img src="assets/img/icml2025/organizers/affiliations/uiuc.png" height="50"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.rutgers.edu/"><img src="assets/img/icml2025/organizers/affiliations/rutgers.png" height="50"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.uic.edu/"><img src="assets/img/icml2025/organizers/affiliations/uic.png" height="60"></a></td>
   </tr>
 </table>
 <table style="width:100%; align: left; border: none; spacing: none">
   <tr> 
+    <td style="text-align:center; border: none; spacing: none"><a href="https://cecs.vinuni.edu.vn/"><img src="assets/img/icml2025/organizers/affiliations/vinuni.png" height="50"></a></td>  
+    <td style="text-align:center; border: none; spacing: none"><a href="https://smarthealth.vinuni.edu.vn/"><img src="assets/img/icml2025/organizers/affiliations/shc.png" height="50"></a></td>    
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.cuhk.edu.hk/english/index.html"><img src="assets/img/icml2025/organizers/affiliations/cuhk.png" height="50"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.rutgers.edu/"><img src="assets/img/icml2025/organizers/affiliations/rutgers.png" height="50"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.uic.edu/"><img src="assets/img/icml2025/organizers/affiliations/uic.png" height="60"></a></td>
   </tr>
 </table>
 
