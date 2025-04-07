@@ -56,9 +56,11 @@ Through expert talks, panel discussions, and interactive sessions, participants 
 | 05:15 pm   | Closing Remarks                                                                        | Organizers    |  -->
 
 
-### Speakers (Tentative)
+### Speakers (TBD)
 
-<table style="width:100%">
+<!-- ### Speakers (Tentative) -->
+
+<!-- <table style="width:100%">
   <tr>
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/pinyuchen-square.webp" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/zicokolter-square.jpg" height="170" width="170"></td>
@@ -79,11 +81,13 @@ Through expert talks, panel discussions, and interactive sessions, participants 
     <td style="text-align:center"><a href="https://www.ericswallace.com/">Eric Wallace</a> <small> <br> Member of Technical Staff <br> OpenAI </small> </td>
     <td style="text-align:center"><a href="https://riceric22.github.io/">Eric Wong</a> <small> <br> Assistant Professor <br> University of Pennsylvania </small> </td>
   </tr>
-</table>
+</table> -->
 
-### Panelists (Tentative)
+### Panelists (TBD)
 
+<!-- ### Panelists (Tentative) -->
 
+<!-- 
 <table style="width:100%">
   <tr>
     <td style="text-align:center"><img src="assets/img/icml2025/panelists/tatsunorihashimoto-square.jpg" height="170" width="170"></td>
@@ -95,7 +99,7 @@ Through expert talks, panel discussions, and interactive sessions, participants 
     <td style="text-align:center"><a href="https://ai.meta.com/people/1396973444287406/adina-williams/">Adina Williams</a> <small> <br>Research Scientist <br> Facebook AI Research </small></td>
     <td style="text-align:center"><a href="https://www.cs.yale.edu/homes/ying-rex/">Rex (Zhitao) Ying</a> <small> <br>Assistant Professor <br> Yale University </small> </td>
   </tr>
-</table>
+</table> -->
 
 ### Call for Papers
 
