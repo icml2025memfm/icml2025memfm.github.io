@@ -222,8 +222,8 @@ Submissions must be anonymous following NeurIPS double-blind reviewing guideline
 
 <table style="width:100%; align: left; border: none; spacing: none">
   <tr style="border: none; spacing: none"> 
-    <td style="text-align:center; border: none; spacing: none"><a href="https://cispa.de/en"><img src="assets/img/icml2025/organizers/affiliations/cispa.png" height="50"></a></td>    
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.dfki.de/en/web"><img src="assets/img/icml2025/organizers/affiliations/dfki.png" height="50"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://cispa.de/en"><img src="assets/img/icml2025/organizers/affiliations/cispa.png" height="75"></a></td>    
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.dfki.de/en/web"><img src="assets/img/icml2025/organizers/affiliations/dfki.png" height="75"></a></td>
   </tr>
 </table>
 <table style="width:100%; align: left; border: none; spacing: none">
