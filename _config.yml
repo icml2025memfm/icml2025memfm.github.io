@@ -1,20 +1,20 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Data in Generative Models
-email: icml2025digbugs@gmail.com
+name: The Impact of Memorization on Trustworthy Foundation Models
+email: icml2025mtfm@gmail.com
 description: > # this means to ignore newlines until "url:"
-  Building reliable and trustworthy Generative AI must start with high-quality and responsibly managed training data.
+  Understanding unintended memorization is essential to building trustworthy foundation models.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: 03/21/2025 # leave blank if you don't want to display last updated
+last_updated: 04/10/2025 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: icml2025digbugs # your GitHub user name
+github_username: icml2025mtfm # your GitHub user name
 twitter_username: # your Twitter user name
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
