@@ -192,7 +192,7 @@ Submissions must be anonymous following NeurIPS double-blind reviewing guideline
 
 ### Organizers 
 
-<!--
+
 <table style="width:100%">
   <tr>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/franziskaboenisch-square.jpg" height="150"  width="150"></td>
@@ -205,8 +205,8 @@ Submissions must be anonymous following NeurIPS double-blind reviewing guideline
     <td style="text-align:center"><a href="https://d0mih.github.io/">Dominik Hintersdorf</a> <small> <br>German Research Center for AI </small> </td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="assets/img/icml2025/organizers/lingjuanlyu-square.png" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/icml2025/organizers/niloofarmireshghallah-square.png" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/icml2025/organizers/blank-square.png" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/icml2025/organizers/blank-square.png" height="150" width="150"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/lukasstruppek-square.png" height="150" width="150"></td>
   </tr>
   <tr>
@@ -215,7 +215,7 @@ Submissions must be anonymous following NeurIPS double-blind reviewing guideline
     <td style="text-align:center"><a href="https://lukasstruppek.github.io/">Lukas Struppek</a> <small> <br>German Research Center for AI </small> </td>
   </tr>
 </table>
--->
+
 
 
 ### Organizer affiliations
