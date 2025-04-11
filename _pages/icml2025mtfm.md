@@ -207,7 +207,7 @@ Submissions must be anonymous following NeurIPS double-blind reviewing guideline
   <tr>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/blank-square.png" height="150" width="150"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/blank-square.png" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/icml2025/organizers/lukasstruppek-square.png" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/icml2025/organizers/lukasstruppek-square.jpg" height="150" width="150"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://sites.google.com/view/lingjuan-lyu/home/">Lingjuan Lyu</a> <small> <br>Sony AI </small> </td>
