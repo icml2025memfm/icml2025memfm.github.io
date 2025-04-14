@@ -2,7 +2,7 @@
 layout: home
 order: 1
 permalink: /
-title: MTFM Workshop 2025
+title: Memo Workshop 2025
 # redirect_from: /index.html
 desc_title: The Impact of Memorization on Trustworthy Foundation Models @ ICML 2025
 description: Understanding unintended memorization is essential to building trustworthy foundation models.
