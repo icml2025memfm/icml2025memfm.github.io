@@ -223,16 +223,12 @@ Submissions must be anonymous following ICML double-blind reviewing guidelines, 
   <tr style="border: none; spacing: none"> 
     <td style="text-align:center; border: none; spacing: none"><a href="https://cispa.de/en"><img src="assets/img/icml2025/organizers/affiliations/cispa.png" height="75"></a></td>    
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.dfki.de/en/web"><img src="assets/img/icml2025/organizers/affiliations/dfki.png" height="75"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.tu-darmstadt.de/index.en.jsp"><img src="assets/img/icml2025/organizers/affiliations/tuda.png" height="75"></a></td>  
   </tr>
 </table>
 <table style="width:100%; align: left; border: none; spacing: none">
   <tr> 
     <td style="text-align:center; border: none; spacing: none"><a href="https://ai.sony"><img src="assets/img/icml2025/organizers/affiliations/sony_ai.png" height="50"></a></td>  
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.tu-darmstadt.de/index.en.jsp"><img src="assets/img/icml2025/organizers/affiliations/tuda.png" height="50"></a></td>  
-  </tr>
-</table>
-<table style="width:100%; align: center; border: none; spacing: none">
-  <tr> 
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.cs.washington.edu"><img src="assets/img/icml2025/organizers/affiliations/university_washington.png" height="50"></a></td>    
   </tr>
 </table>
