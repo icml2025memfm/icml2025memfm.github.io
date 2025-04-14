@@ -201,7 +201,7 @@ Submissions must be anonymous following ICML double-blind reviewing guidelines, 
   <tr>
     <td style="text-align:center"><a href="https://cispa.de/en/people/c01frbo">Franziska Boenisch</a> <br> <small> CISPA Helmholtz Center for Information Security </small> </td>
     <td style="text-align:center"><a href="https://adam-dziedzic.com/">Adam Dziedzic</a> <small> <br> CISPA Helmholtz Center for Information Security </small> </td>
-    <td style="text-align:center"><a href="https://d0mih.github.io/">Dominik Hintersdorf</a> <small> <br>German Research Center for AI </small> </td>
+    <td style="text-align:center"><a href="https://d0mih.github.io/">Dominik Hintersdorf</a> <small> <br>German Research Center for AI & TU Darmstadt </small> </td>
   </tr>
   <tr>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/blank-square.png" height="150" width="150"></td>
@@ -211,7 +211,7 @@ Submissions must be anonymous following ICML double-blind reviewing guidelines, 
   <tr>
     <td style="text-align:center"><a href="https://sites.google.com/view/lingjuan-lyu/home/">Lingjuan Lyu</a> <small> <br>Sony AI </small> </td>
     <td style="text-align:center"><a href="https://homes.cs.washington.edu/~niloofar//">Niloofar Mireshghallah</a> <small> <br>University of Washington </small> </td>
-    <td style="text-align:center"><a href="https://lukasstruppek.github.io/">Lukas Struppek</a> <small> <br>German Research Center for AI </small> </td>
+    <td style="text-align:center"><a href="https://lukasstruppek.github.io/">Lukas Struppek</a> <small> <br>German Research Center for AI & TU Darmstadt</small> </td>
   </tr>
 </table>
 
