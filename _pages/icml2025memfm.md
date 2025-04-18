@@ -164,7 +164,7 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 
 🏆 **2 free ICML 2023 workshop registrations will be given as "Best Reviewer Awards"** 🏆 -->
 
-### Important Dates (Tentative)
+### Important Dates
 
 * **Submission deadline**: May 20th, 2025, 11:59 PM Anywhere on Earth (AoE)
 * **Author notification**: June 9th, 2025
