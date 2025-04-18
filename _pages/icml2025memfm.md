@@ -111,23 +111,7 @@ This workshop aims to bring together researchers and practitioners to explore <b
 
 #### Motivation and Topics
 
-<!--
-TODO: write a short intro to the motivation and the topics.
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
--->
+This workshop explores the emerging challenges of memorization in foundation models, focusing on its detection, mitigation, and broader implications. Examples of research areas include: 
 
 * **Detection and Mitigation Methods for Memorization in Foundation Models:** As foundation models grow in complexity, identifying instances of unintended memorization becomes both more challenging and more essential. This topic focuses on techniques for detecting memorized content—such as membership inference attacks and data reconstruction—as well as mitigation strategies, including regularization, differential privacy, and training data filtering. The goal is to prevent sensitive or proprietary data from being inadvertently retained and surfaced by the model.
 
@@ -140,7 +124,7 @@ TODO: write a short intro to the motivation and the topics.
 * **Societal Impact and Ethical Aspects of Memorization:** When foundation models unintentionally memorize and reveal private, personal, or copyrighted information, the consequences can be profound. This topic addresses the ethical responsibilities of researchers and developers, the potential for harm to individuals and communities, and the broader implications for fairness, accountability, and trust in AI technologies.
 
 
-We welcome submissions related to all aspects of Data in Generative AI, including but not limited to: 
+We welcome submissions related to all aspects of memorization in foundation models, including but not limited to: 
 
 *	Detection and Mitigation Methods for Memorization in Foundation Models
 *	Theoretical Foundations of Memorization
