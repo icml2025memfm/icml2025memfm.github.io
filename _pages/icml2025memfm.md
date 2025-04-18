@@ -2,7 +2,7 @@
 layout: home
 order: 1
 permalink: /
-title: Memo Workshop 2025
+title: MemFM Workshop 2025
 # redirect_from: /index.html
 desc_title: The Impact of Memorization on Trustworthy Foundation Models @ ICML 2025
 description: Understanding unintended memorization is essential to building trustworthy foundation models.
@@ -172,9 +172,9 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 * **Workshop date**: TBD (Full-day Event)
 
 ### Submission Instructions
-Papers should be submitted to [OpenReview](https://openreview.net/) **(Coming Soon)**
+Papers should be submitted to [OpenReview](https://openreview.net/group?id=ICML.cc/2025/Workshop/MemFM/)
 
-Submitted papers should have up to 4 pages (excluding references, acknowledgments, or appendices). Please use our adjusted <a href="_data/icml2025memo.zip">ICML submission template</a>.
+Submitted papers should have up to **4 pages** (excluding references, acknowledgments, or appendices). Please use our adjusted <a href="assets/latex/icml2025memfm.zip">ICML submission template</a>.
 Submissions must be anonymous following ICML double-blind reviewing guidelines, ICML Code of Conduct, and Code of Ethics. Accepted papers will be hosted on the workshop website but are considered non-archival and can be submitted to other workshops, conferences, or journals if their submission policy allows.
 
 ### Workshop Sponsors
