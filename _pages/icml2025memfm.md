@@ -163,13 +163,14 @@ Submissions must be anonymous following ICML double-blind reviewing guidelines, 
 
 ### Workshop Sponsors
 
-#### ⭐ **Please reach out if you would like to sponsor our workshop.** ⭐
 
 <table style="width:100%; align: center; border: none; spacing: none">
   <tr> 
-    <td style="text-align:center; border: none; spacing: none"><a href="https://hessian.ai/"><img src="assets/img/icml2025/sponsors/hessian-ai-logo-color.webp" height="60"></a></td>    
+    <td style="text-align:center; border: none; spacing: none"><a href="https://hessian.ai/"><img src="assets/img/icml2025/sponsors/hessian-ai-logo-color.webp" height="80"></a></td>    
   </tr>
 </table>
+
+#### ⭐ **Please reach out if you would like to sponsor our workshop.** ⭐
 
 <!-- <table style="width:100%; border: none;">
 <td style="text-align:center; border: none;"><a href="https://troj.ai/"><img src="assets/img/sponsor-troj-ai.png" height="55"></a></td>
