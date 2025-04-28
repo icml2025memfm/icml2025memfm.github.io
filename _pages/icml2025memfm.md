@@ -196,7 +196,7 @@ Submissions must be anonymous following ICML double-blind reviewing guidelines, 
   </tr>
   <tr>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/lingjuanlv.png" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/icml2025/organizers/niloofarmireshghallah-square.jpg.png" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/icml2025/organizers/niloofarmireshghallah-square.jpg" height="150" width="150"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/organizers/lukasstruppek-square.png" height="150" width="150"></td>
   </tr>
   <tr>
