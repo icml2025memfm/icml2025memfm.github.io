@@ -150,10 +150,10 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 
 ### Important Dates
 
-* **Submission deadline**: May 20th, 2025, 11:59 PM Anywhere on Earth (AoE)
+* **Submission deadline**: May 27th, 2025, 11:59 PM Anywhere on Earth (AoE) ~May 20th, 2025, 11:59 PM Anywhere on Earth (AoE)~
 * **Author notification**: June 9th, 2025
 * **Camera-ready deadline**: June 30th, 2025 11:59 PM Anywhere on Earth (AoE)
-* **Workshop date**: TBD (Full-day Event)
+* **Workshop date**: Saturday, July 19th, Meeting Room 223-224 (Full-day Event)
 
 ### Submission Instructions
 Papers should be submitted to [OpenReview](https://openreview.net/group?id=ICML.cc/2025/Workshop/MemFM)
