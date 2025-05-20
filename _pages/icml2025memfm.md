@@ -105,7 +105,7 @@ This workshop aims to bring together researchers and practitioners to explore <b
 
 ### Call for Papers
 
-**We cordially invite submissions and participation in our “The Impact of Memorization on Trustworthy Foundation Models” workshop that will be held on July 18th or July 19th, 2025 at the Forty-Second International Conference on Machine Learning (ICML) 2025 in Vancouver, Canada.**
+**We cordially invite submissions and participation in our “The Impact of Memorization on Trustworthy Foundation Models” workshop that will be held on July 19th, 2025 at the Forty-Second International Conference on Machine Learning (ICML) 2025 in Vancouver, Canada.**
 
 <!-- The submission deadline is **<s>September 29, 2023</s> October 6th, 2023, 23:59 AoE** and the submission link <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS">https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS</a>. -->
 
