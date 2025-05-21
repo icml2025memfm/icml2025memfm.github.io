@@ -201,7 +201,7 @@ Submissions must be anonymous following ICML double-blind reviewing guidelines, 
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://sites.google.com/view/lingjuan-lyu/home/">Lingjuan Lyu</a> <small> <br>Sony AI </small> </td>
-    <td style="text-align:center"><a href="https://homes.cs.washington.edu/~niloofar//">Niloofar Mireshghallah</a> <small> <br>University of Washington </small> </td>
+    <td style="text-align:center"><a href="https://homes.cs.washington.edu/~niloofar//">Niloofar Mireshghallah</a> <small> <br>FAIR & CMU</small> </td>
     <td style="text-align:center"><a href="https://lukasstruppek.github.io/">Lukas Struppek</a> <small> <br>German Research Center for AI & TU Darmstadt</small> </td>
   </tr>
 </table>
