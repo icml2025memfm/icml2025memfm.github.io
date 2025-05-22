@@ -161,6 +161,8 @@ Papers should be submitted to [OpenReview](https://openreview.net/group?id=ICML.
 Submitted papers should have up to **4 pages** (excluding references, acknowledgments, or appendices). Please use our adjusted <a href="assets/latex/icml2025memfm.zip">ICML submission template</a>.
 Submissions must be anonymous following ICML double-blind reviewing guidelines, ICML Code of Conduct, and Code of Ethics. Accepted papers will be hosted on the workshop website but are considered non-archival and can be submitted to other workshops, conferences, or journals if their submission policy allows.
 
+🏆 **The best paper will be recognized with a Best Paper Award** 🏆 
+
 ### Workshop Sponsors
 
 
