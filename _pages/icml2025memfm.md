@@ -142,7 +142,7 @@ The workshop will employ a double-blind review process. Each submission will be 
 * Relevance to the workshop
 * Societal impacts
 
-We only consider submissions that haven’t been published in any peer-reviewed venue, including ICML 2025 conference. **We allow dual submissions with other workshops or conferences. The workshop is non-archival and will not have any official proceedings**. All accepted papers will be allocated either a poster presentation or a talk slot.
+**We allow dual submissions with other recent workshops or conferences. The workshop is non-archival and will not have any official proceedings**. All accepted papers will be allocated either a poster presentation or a talk slot.
  
 <!-- ### Call for Reviewers
 Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L9_o7vAZUSWjWMxi18jZHuIrBaafUBm6v1fTZQorK2o9Qw/viewform) if you are interested in reviewing for the workshop.
