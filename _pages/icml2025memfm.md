@@ -65,13 +65,13 @@ This workshop aims to bring together researchers and practitioners to explore <b
 <table style="width:100%">
   <tr>
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/chaudhuri.jpeg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/icml2025/speakers/cooper.jpg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/feldman.jpg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/icml2025/speakers/lee.jpg" height="170" width="170"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://cseweb.ucsd.edu/~kamalika/">Kamalika Chaudhuri</a> <small> <br> Professor / Research Scientist <br> UCSD / Meta </small> </td>
+    <td style="text-align:center"><a href="https://afedercooper.info/">A. Feder Cooper</a> <small> <br>Incoming Assistant Professor / Postdoctoral Researcher<br> Yale University / Microsoft </small> </td>
     <td style="text-align:center"><a href="https://vtaly.net/">Vitaly Feldman</a> <small> <br> Research Scientist <br> Apple </small> </td>
-    <td style="text-align:center"><a href="https://katelee168.github.io/">Katherine Lee</a> <small> <br> Research Scientist <br> Google DeepMind </small> </td>
   </tr>
   <tr>
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/maini.jpg" height="170" width="170"></td>
