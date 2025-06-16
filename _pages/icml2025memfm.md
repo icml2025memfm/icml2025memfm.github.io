@@ -170,6 +170,7 @@ Submissions must be anonymous following ICML double-blind reviewing guidelines, 
 <table style="width:100%; align: center; border: none; spacing: none">
   <tr> 
     <td style="text-align:center; border: none; spacing: none"><a href="https://hessian.ai/"><img src="assets/img/icml2025/sponsors/hessian-ai-logo-color.webp" height="80"></a></td>    
+    <td style="text-align:center; border: none; spacing: none"><a href="https://cispa.de/en"><img src="assets/img/icml2025/organizers/affiliations/cispa.png" height="80"></a></td>    
   </tr>
 </table>
 
