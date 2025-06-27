@@ -33,29 +33,27 @@ This workshop aims to bring together researchers and practitioners to explore <b
 |:---------------------|:--------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|
 | 08:25 am | Opening Remarks                                                                            | Organizers                                                                            |
 |---------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 08:30 am | **Invited Talk 1:** TBA | TBA |
+| 08:30 am | **Poster Session**                                                                                | Paper Authors |
 | 09:00 am | Coffee Break |  |
 |---------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 09:30 am | **Invited Talk 2:** TBA | TBA |
+| 09:30 am | **Invited Talk 1:** TBA | Reza Shokri |
 | 10:00 am | **Contributed Talk 1:** TBA | TBA |
 | 10:15 pm | **Contributed Talk 2:** TBA | TBA |
-| 10:30 am  | **Invited Talk 3:** TBA | TBA |
-| 11:00 pm | **Poster Session**                                                                                | Paper Authors |
+| 10:30 am  | **Invited Talk 2:** TBA | A. Feder Cooper |
+| 11:00 pm | **Contributed Talk 3:** TBA | TBA |
+| 11:15 am  | **Invited Talk 3:** TBA | Vitaly Feldman |
+| 11:45 pm | **Contributed Talk 4:** TBA | TBA |
 | 12:00 am | Lunch Break | |
 |---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 01:30 pm | **Invited Talk 4** TBA | TBA |
-| 02:00 pm | **Contributed Talk 3:** TBA | TBA |
-| 02:15 pm | **Contributed Talk 4:** TBA | TBA |
-| 02:30 pm | **Contributed Talk 5:** TBA | TBA |
-| 02:45 pm | **Contributed Talk 6:** TBA | TBA |
-| 03:00 pm | Coffee Break |  |
+| 01:30 pm | **Contributed Talk 5** TBA | TBA |
+| 01:45 pm | **Invited Talk 3:** TBA | Kamalika Chaudhuri |
+| 02:15 pm | **Contributed Talk 6:** TBA | TBA |
+| 02:30 pm | **Poster Session 2** | Paper Authors |
 |---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 03:30 pm | **Poster Session**                                                                                | Paper Authors |
-| 04:30 pm | **Invited Talk 5:** TBA | TBA |
+| 03:45 pm | **Invited Talk** | Pratyush Maini |
+| 04:20 pm | **Panel Discussion:** TBA | TBA |
 |---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 05:00 pm | **Panel Discussion**                                                                     |  |
-| 05:30 pm   | Closing Remarks                                                                        | Organizers    | 
-
+| 04:50 pm   | Closing Remarks | Organizers    | 
 
 ### Speakers 
 
