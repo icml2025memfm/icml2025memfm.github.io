@@ -25,7 +25,7 @@ This workshop aims to bring together researchers and practitioners to explore <b
 <!-- ### Schedule (Meeting Room 317A, 9 AM - 5 PM, July 29, 2023) -->
 ### Schedule (Preliminary)
 
-**Link to NeurIPS page: [https://icml.cc/virtual/2025/workshop/39996](https://icml.cc/virtual/2025/workshop/39996)**
+**Link to ICML page: [https://icml.cc/virtual/2025/workshop/39996](https://icml.cc/virtual/2025/workshop/39996)**
 
 
 |----------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------|
@@ -33,25 +33,24 @@ This workshop aims to bring together researchers and practitioners to explore <b
 |:---------------------|:--------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|
 | 08:25 am | Opening Remarks                                                                            | Organizers                                                                            |
 |---------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 08:30 am | **Poster Session**                                                                                | Paper Authors |
-| 09:00 am | Coffee Break |  |
+| 08:30 am | **Poster Session** (incl. coffee break at 09:00 am)                                                                               | Paper Authors |
 |---------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 09:30 am | **Invited Talk 1:** TBA | Reza Shokri |
+| 09:30 am | **Invited Talk 1:** On Testing Memorization in AI: From Brute-Force Methods to Robust Statistical Tests | Reza Shokri |
 | 10:00 am | **Contributed Talk 1:** TBA | TBA |
-| 10:15 pm | **Contributed Talk 2:** TBA | TBA |
-| 10:30 am  | **Invited Talk 2:** TBA | A. Feder Cooper |
-| 11:00 pm | **Contributed Talk 3:** TBA | TBA |
-| 11:15 am  | **Invited Talk 3:** TBA | Vitaly Feldman |
-| 11:45 pm | **Contributed Talk 4:** TBA | TBA |
-| 12:00 am | Lunch Break | |
+| 10:15 am | **Contributed Talk 2:** TBA | TBA |
+| 10:30 am  | **Invited Talk 2:** What Copyright Can Learn From Memorization Measurements of Language Models | A. Feder Cooper |
+| 11:00 am | **Contributed Talk 3:** TBA | TBA |
+| 11:15 am  | **Invited Talk 3:** Trade-offs in Data Memorization via Strong Data Processing Inequalities | Vitaly Feldman |
+| 11:45 am | **Contributed Talk 4:** TBA | TBA |
+| 12:00 pm | Lunch Break | |
 |---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | 01:30 pm | **Contributed Talk 5** TBA | TBA |
-| 01:45 pm | **Invited Talk 3:** TBA | Kamalika Chaudhuri |
+| 01:45 pm | **Invited Talk 4:** Principled Approaches to Measuring Memorization | Kamalika Chaudhuri |
 | 02:15 pm | **Contributed Talk 6:** TBA | TBA |
-| 02:30 pm | **Poster Session 2** | Paper Authors |
+| 02:30 pm | **Poster Session 2** (incl. coffee break at 03:00 pm) | Paper Authors |
 |---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 03:45 pm | **Invited Talk** | Pratyush Maini |
-| 04:20 pm | **Panel Discussion:** TBA | TBA |
+| 03:45 pm | **Invited Talk 5:** What Memorization Research Taught Me About Safety | Pratyush Maini |
+| 04:20 pm | **Panel Discussion** | TBA |
 |---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | 04:50 pm   | Closing Remarks | Organizers    | 
 
