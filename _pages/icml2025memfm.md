@@ -70,16 +70,14 @@ This workshop aims to bring together researchers and practitioners to explore <b
     <td style="text-align:center"><a href="https://vtaly.net/">Vitaly Feldman</a> <small> <br> Research Scientist <br> Apple </small> </td>
   </tr>
   <tr>
+    <td></td>
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/maini.jpg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/icml2025/speakers/shokri.jpg" height="170" width="170"></td>
-    <!-- <td style="text-align:center"><img src="assets/img/icml2025/speakers/ericwallace-square.jpg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/icml2025/speakers/ericwong-square.jpg" height="170" width="170"></td> -->
   </tr>
   <tr>
+    <td></td>
     <td style="text-align:center"><a href="https://pratyushmaini.github.io/">Pratyush Maini</a> <small><br> PhD Student <br> Carnegie Mellon University </small></td>
     <td style="text-align:center"><a href="https://www.comp.nus.edu.sg/~reza/">Reza Shokri</a> <small> <br> Associate Professor <br> National University of Singapore	</small> </td>
-    <!-- <td style="text-align:center"><a href="https://www.ericswallace.com/">Eric Wallace</a> <small> <br> Member of Technical Staff <br> OpenAI </small> </td>
-    <td style="text-align:center"><a href="https://riceric22.github.io/">Eric Wong</a> <small> <br> Assistant Professor <br> University of Pennsylvania </small> </td> -->
   </tr>
 </table>
 
