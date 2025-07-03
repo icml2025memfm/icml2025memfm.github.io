@@ -166,8 +166,6 @@ Submissions must be anonymous following ICML double-blind reviewing guidelines, 
   </tr>
 </table>
 
-#### ⭐ **Please reach out if you would like to sponsor our workshop.** ⭐
-
 <!-- <table style="width:100%; border: none;">
 <td style="text-align:center; border: none;"><a href="https://troj.ai/"><img src="assets/img/sponsor-troj-ai.png" height="55"></a></td>
 
