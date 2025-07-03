@@ -81,23 +81,20 @@ This workshop aims to bring together researchers and practitioners to explore <b
   </tr>
 </table>
 
-### Panelists (TBD)
+### Panelists
 
-<!-- ### Panelists (Tentative) -->
-
-<!-- 
 <table style="width:100%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/icml2025/panelists/tatsunorihashimoto-square.jpg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/icml2025/panelists/adinawilliams-square.jpg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/icml2025/panelists/rexying-square.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/icml2025/panelists/cyphert.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/icml2025/panelists/casey.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/icml2025/panelists/thakkar.jpg" height="170" width="170"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://thashim.github.io/">Tatsunori Hashimoto</a> <small> <br>Assistant Professor <br> Stanford University </small> </td>
-    <td style="text-align:center"><a href="https://ai.meta.com/people/1396973444287406/adina-williams/">Adina Williams</a> <small> <br>Research Scientist <br> Facebook AI Research </small></td>
-    <td style="text-align:center"><a href="https://www.cs.yale.edu/homes/ying-rex/">Rex (Zhitao) Ying</a> <small> <br>Assistant Professor <br> Yale University </small> </td>
+    <td style="text-align:center"><a href="https://www.law.wvu.edu/faculty-staff/faculty-information/amy-cyphert">Amy Beth Cyphert</a> <small> <br> Associate Professor <br> West Virginia University College of Law </small> </td>
+    <td style="text-align:center"><a href="https://casey-meehan.github.io/">Casey Meehan</a> <small> <br>Research Engineer<br> OpenAI </small> </td>
+    <td style="text-align:center"><a href="https://www.omthakkar.com/">Om Thakkar</a> <small> <br> Research Engineer <br> OpenAI </small> </td>
   </tr>
-</table> -->
+</table>
 
 ### Call for Papers
 
