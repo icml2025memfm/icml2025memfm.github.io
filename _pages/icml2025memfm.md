@@ -23,7 +23,7 @@ This workshop aims to bring together researchers and practitioners to explore <b
 <!-- **UPDATE**: fill out this form if you are interested in a post-workshop social: [https://forms.gle/XjeSVmyHnsp7EmLB6](https://forms.gle/XjeSVmyHnsp7EmLB6). -->
 
 <!-- ### Schedule (Meeting Room 317A, 9 AM - 5 PM, July 29, 2023) -->
-### Schedule (Preliminary)
+### Schedule (West Meeting Room 223-224, Sat 19 Jul)
 
 **Link to ICML page: [https://icml.cc/virtual/2025/workshop/39996](https://icml.cc/virtual/2025/workshop/39996)**
 
