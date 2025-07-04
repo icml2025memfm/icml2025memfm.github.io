@@ -50,7 +50,7 @@ This workshop aims to bring together researchers and practitioners to explore <b
 | 02:30 pm | **Poster Session 2** (incl. coffee break at 03:00 pm) | Paper Authors |
 |---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | 03:45 pm | **Invited Talk 5:** What Memorization Research Taught Me About Safety | Pratyush Maini |
-| 04:20 pm | **Panel Discussion** | TBA |
+| 04:20 pm | **Panel Discussion** | Amy Beth Cyphert, Casey Meehan, Om Thakkar |
 |---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | 04:50 pm   | Closing Remarks | Organizers    | 
 
