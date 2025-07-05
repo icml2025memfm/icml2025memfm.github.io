@@ -41,10 +41,10 @@ This workshop aims to bring together researchers and practitioners to explore <b
 | 10:30 am  | **Invited Talk 2:** What Copyright Can Learn From Memorization Measurements of Language Models | A. Feder Cooper |
 | 11:00 am | **Contributed Talk 3:** A Closer Look at Model Collapse: From a Generalization-to-Memorization Perspective | Qing Qu |
 | 11:15 am  | **Invited Talk 3:** Trade-offs in Data Memorization via Strong Data Processing Inequalities | Vitaly Feldman |
-| 11:45 am | **Contributed Talk 4:** How Can I Publish My LLM Benchmark Without Giving the True Answers Away? | Takashi Ishida |
+| 11:45 am | **Contributed Talk 4:** MAGIC: Diffusion Model Memorization Auditing via Generative Image Compression | Gunjan Dhanuka |
 | 12:00 pm | Lunch Break | |
 |---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 01:30 pm | **Contributed Talk 5** MAGIC: Diffusion Model Memorization Auditing via Generative Image Compression | TBD |
+| 01:30 pm | **Contributed Talk 5** How Can I Publish My LLM Benchmark Without Giving the True Answers Away? | Takashi Ishida |
 | 01:45 pm | **Invited Talk 4:** Principled Approaches to Measuring Memorization | Kamalika Chaudhuri |
 | 02:15 pm | **Contributed Talk 6:** Low Resource Reconstruction Attacks Through Benign Prompts | Sol Yarkoni |
 | 02:30 pm | **Poster Session 2** (incl. coffee break at 03:00 pm) | Paper Authors |
