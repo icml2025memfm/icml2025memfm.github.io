@@ -27,6 +27,7 @@ This workshop aims to bring together researchers and practitioners to explore <b
 
 **Link to ICML page: [https://icml.cc/virtual/2025/workshop/39996](https://icml.cc/virtual/2025/workshop/39996)**
 
+**All posters will be presented in both poster sessions**
 
 |----------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------|
 | Start Time<br>(GMT-7-08:25, Vancouver)  |  Session                                                 | Speaker(s)                                                                            |
