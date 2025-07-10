@@ -34,7 +34,7 @@ This workshop aims to bring together researchers and practitioners to explore <b
 |:---------------------|:--------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------|
 | 08:25 am | Opening Remarks                                                                            | Organizers                                                                            |
 |---------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 08:30 am | **Poster Session** (incl. coffee break at 09:00 am)                                                                               | Paper Authors |
+| 08:30 am | **Poster Session** (incl. catered breakfast snacks)                                                                               | Paper Authors |
 |---------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | 09:30 am | **Invited Talk 1:** On Testing Memorization in AI: From Brute-Force Methods to Robust Statistical Tests | Reza Shokri |
 | 10:00 am | **Contributed Talk 1:** Evaluating Memorization in Parameter-Efficient Fine-tuning | Sanghyun Hong |
