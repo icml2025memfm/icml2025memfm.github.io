@@ -26,6 +26,7 @@ This workshop aims to bring together researchers and practitioners to explore <b
 ### Schedule (West Meeting Room 223-224, Sat 19 Jul)
 
 **Link to ICML page: [https://icml.cc/virtual/2025/workshop/39996](https://icml.cc/virtual/2025/workshop/39996)**
+**Link to accepted papers (OpenReview): [https://openreview.net/group?id=ICML.cc/2025/Workshop/MemFM](https://openreview.net/group?id=ICML.cc/2025/Workshop/MemFM)**
 
 **All posters will be presented in both poster sessions**
 
@@ -37,17 +38,17 @@ This workshop aims to bring together researchers and practitioners to explore <b
 | 08:30 am | **Poster Session** (incl. catered breakfast snacks)                                                                               | Paper Authors |
 |---------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | 09:30 am | **Invited Talk 1:** On Testing Memorization in AI: From Brute-Force Methods to Robust Statistical Tests | Reza Shokri |
-| 10:00 am | **Contributed Talk 1:** Evaluating Memorization in Parameter-Efficient Fine-tuning | Sanghyun Hong |
-| 10:15 am | **Contributed Talk 2:** Mitigating Unintended Memorization with LoRA in Federated Learning for LLMs | Tahseen Rabbani |
+| 10:00 am | **Contributed Talk 1:** [Evaluating Memorization in Parameter-Efficient Fine-tuning](https://openreview.net/forum?id=WV82aVnG54) | Sanghyun Hong |
+| 10:15 am | **Contributed Talk 2:** [Mitigating Unintended Memorization with LoRA in Federated Learning for LLMs](https://openreview.net/forum?id=LpE7gf46yO) | Tahseen Rabbani |
 | 10:30 am  | **Invited Talk 2:** What Copyright Can Learn From Memorization Measurements of Language Models | A. Feder Cooper |
-| 11:00 am | **Contributed Talk 3:** A Closer Look at Model Collapse: From a Generalization-to-Memorization Perspective | Qing Qu |
+| 11:00 am | **Contributed Talk 3:** [A Closer Look at Model Collapse: From a Generalization-to-Memorization Perspective](https://openreview.net/forum?id=vvwpY99gXj) | Qing Qu |
 | 11:15 am  | **Invited Talk 3:** Trade-offs in Data Memorization via Strong Data Processing Inequalities | Vitaly Feldman |
-| 11:45 am | **Contributed Talk 4:** MAGIC: Diffusion Model Memorization Auditing via Generative Image Compression | Gunjan Dhanuka |
+| 11:45 am | **Contributed Talk 4:** [MAGIC: Diffusion Model Memorization Auditing via Generative Image Compression](https://openreview.net/forum?id=DLLiIysdXf) | Gunjan Dhanuka |
 | 12:00 pm | Lunch Break | |
 |---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 01:30 pm | **Contributed Talk 5** How Can I Publish My LLM Benchmark Without Giving the True Answers Away? | Takashi Ishida |
+| 01:30 pm | **Contributed Talk 5** [How Can I Publish My LLM Benchmark Without Giving the True Answers Away?](https://openreview.net/forum?id=LSNdTt2SIY) | Takashi Ishida |
 | 01:45 pm | **Invited Talk 4:** Principled Approaches to Measuring Memorization | Kamalika Chaudhuri |
-| 02:15 pm | **Contributed Talk 6:** Low Resource Reconstruction Attacks Through Benign Prompts | Sol Yarkoni |
+| 02:15 pm | **Contributed Talk 6:** [Low Resource Reconstruction Attacks Through Benign Prompts](https://openreview.net/forum?id=zZ2F3Gfish) | Sol Yarkoni |
 | 02:30 pm | **Poster Session 2** (incl. coffee break at 03:00 pm) | Paper Authors |
 |---------------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | 03:45 pm | **Invited Talk 5:** What Memorization Research Taught Me About Safety | Pratyush Maini |
