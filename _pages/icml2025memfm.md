@@ -25,7 +25,7 @@ This workshop aims to bring together researchers and practitioners to explore <b
 <!-- ### Schedule (Meeting Room 317A, 9 AM - 5 PM, July 29, 2023) -->
 ### Schedule (West Meeting Room 223-224, Sat 19 Jul)
 
-**Link to ICML page: [https://icml.cc/virtual/2025/workshop/39996](https://icml.cc/virtual/2025/workshop/39996)**
+**Link to ICML page: [https://icml.cc/virtual/2025/workshop/39996](https://icml.cc/virtual/2025/workshop/39996)**  
 **Link to accepted papers (OpenReview): [https://openreview.net/group?id=ICML.cc/2025/Workshop/MemFM](https://openreview.net/group?id=ICML.cc/2025/Workshop/MemFM)**
 
 **All posters will be presented in both poster sessions**
